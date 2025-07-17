@@ -7,13 +7,13 @@ Un quiz web qui teste vos connaissances sur les drapeaux du monde entier, avec u
 - 10 questions par partie
 - Drapeaux aléatoires depuis l’API REST Countries
 - 4 propositions par question
-- Chronomètre de 30 secondes par question
+- Chronomètre de 10 secondes par question
 - Score final avec évaluation
 - Interface responsive et dynamique
 
 ## ⏱️ Chronomètre
 
-Chaque question doit être répondue en **30 secondes**. Si le temps est écoulé, la question est automatiquement comptée comme fausse.
+Chaque question doit être répondue en **10 secondes**. Si le temps est écoulé, la question est automatiquement comptée comme fausse.
 
 ## 🛠️ Technologies utilisées
 
